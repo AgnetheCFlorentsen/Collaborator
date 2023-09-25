@@ -3,7 +3,8 @@ public class Main {
         System.out.println("collaborator");
 
         System.out.println("Agnethe");
-        System.out.println("Shabnam")
+        System.out.println("Shabnam");
+        System.out.println("Oskar Test1");
     }
 
 }
